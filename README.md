@@ -11,3 +11,4 @@ Inga ändringar kommer att sparas! Allt du skriver kommer att raderas när du st
 
 Denna repo stöder för tillfället följande språk:
 - Python
+- Julia
