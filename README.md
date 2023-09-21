@@ -2,7 +2,7 @@
 
 Här finns alla Jupyter Notebooks som används av MT-20.
 
-Klicka på länken för  att starta Jupyter, var beredd på att vänta ca 30 sekunder.
+Klicka på länken för  att starta Jupyter, var beredd på att vänta ca 1 minut.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ErLi-MT20/MT-20_Jupyter/HEAD)
 
